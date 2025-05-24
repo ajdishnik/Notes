@@ -17,4 +17,4 @@
 ![alt text](Screenshot2.png) 
 ![alt text](Screenshot1.png) 
         
-[СКАЧАТЬ/DOWNLOAD] (https://github.com/ajdishnik/Notes/raw/refs/heads/main/app.exe)
+[СКАЧАТЬ/DOWNLOAD](https://github.com/ajdishnik/Notes/raw/refs/heads/main/app.exe)
