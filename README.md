@@ -10,3 +10,6 @@
         AES-CBC + PKCS7 padding.
         Сильное шифрование при правильном вводе пароля.
         Хранение пароля в памяти (не в файле).
+
+        
+[СКАЧАТЬ/DOWNLOAD] (https://github.com/ajdishnik/Notes/raw/refs/heads/main/app.exe)
