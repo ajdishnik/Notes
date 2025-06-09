@@ -18,4 +18,4 @@
         
 [СКАЧАТЬ/x64](https://github.com/ajdishnik/Notes/raw/refs/heads/main/app.exe)
 
-[Если нужна помощь пишите в тг](https://t.me/ajdishnik)
+[Telegram если потребуется помощь](https://t.me/ajdishnik)
