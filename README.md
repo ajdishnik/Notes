@@ -14,6 +14,6 @@
 
 Сделано для личного использования ;)
 
-
+![alt text](Screenshot.png) 
         
 [СКАЧАТЬ/x64](https://github.com/ajdishnik/Notes/raw/refs/heads/main/app.exe)
